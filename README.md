@@ -19,4 +19,3 @@ It analyzes **Chicago crime data (2001–Present)** together with **census** and
 - Top crime types per year  
 - Crimes vs. schools in each area  
 
-## 📂 Repository Structure
